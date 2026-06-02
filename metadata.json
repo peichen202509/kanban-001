@@ -1,0 +1,6 @@
+{
+  "name": "個人化 Kanban 任務板",
+  "description": "極簡、輕量的個人任務看板",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
